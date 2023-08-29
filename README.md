@@ -11,6 +11,7 @@ Foram criadas queries SQL seguindo os requisitos do desafio utilizando os seguin
 - GROUP BY
 - HAVING
 - JOIN
+
 Também foram utilizados aliases e outras funções como Count, Concat, Round e Sum.
 
 ## Objetivos
